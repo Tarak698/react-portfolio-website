@@ -31,8 +31,8 @@ const Portfolio = () => {
                     </div>
                         <h3>Dynamic Portfolio Website</h3>
                         <div className="portfolio__item-cta">
-                        <a href="https://github.com/Tarak698/university-website" className="btn1" target='_blank'>Github</a>
-                        <a href="https://arkajainuniversitywebsite.netlify.app" className="btn btn-primary" target='_blank'>Live Demo</a>
+                        <a href="https://github.com/Tarak698/react-portfolio-website" className="btn1" target='_blank'>Github</a>
+                        <a href="https://react-portfolio-website-lac.vercel.app/" className="btn btn-primary" target='_blank'>Live Demo</a>
                         </div>
                 </article> 
 
