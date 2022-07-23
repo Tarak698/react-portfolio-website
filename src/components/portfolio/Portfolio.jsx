@@ -75,8 +75,8 @@ const Portfolio = () => {
                     </div>
                         <h3>Dynamic Registration Form</h3>
                         <div className="portfolio__item-cta">
-                        <a href="https://tarak698.github.io/registration-form/" className="btn1" target='_blank'>Github</a>
-                        <a href="https://github.com/Tarak698/registration-form" className="btn btn-primary" target='_blank'>Live Demo</a>
+                        <a href="https://github.com/Tarak698/registration-form" className="btn1" target='_blank'>Github</a>
+                        <a href="https://tarak698.github.io/registration-form/" className="btn btn-primary" target='_blank'>Live Demo</a>
                         </div>
                 </article>
             </div>
